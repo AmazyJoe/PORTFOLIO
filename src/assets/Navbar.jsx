@@ -17,9 +17,9 @@ const Navbar = () => (
       <li>
         <Link to="/projects" style={{color: "white"}}>Projects</Link>
       </li>
-      <li>
+      {/* <li>
         <Link to="/skills" style={{color: "white"}}>Skills</Link>
-      </li>
+      </li> */}
       <li>
         <Link to="/contact" style={{color: "white"}}>Contact</Link>
       </li>
